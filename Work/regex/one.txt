@@ -1,0 +1,23 @@
+grep 'fox' file - greps the word fox if present in file
+ 
+grep 'fox' file - greps any word begining with f and ending with x and having any single character in between them : example fax fux fix flx frx fAx fUx fEx fTx... 
+ 
+Now to grep any word that starts with f and ends with x but has any single/multiple characters in between then use f.*x -> here the asterisk means the preceding character occuring any number of times even 0.
+ 
+Searching in the end/beginning: 
+
+to find words ending with x use x$
+to find words starting with sp use ^sp 
+
+But the problem here is that all of this would match all the lines containing the stuff you searched for and you'd prolly want to get rid of all the unnecessary bs. So, use \S -> this means any non-whitespace character so this would give you a word at a time and not a whole ass sentence.
+ 
+and \s means any whitespace character  
+
+file :  
+loomer
+coomer
+summer
+hammer
+spammer
+dagger
+
