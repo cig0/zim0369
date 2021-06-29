@@ -1,27 +1,12 @@
-reduce() and map() in javascript | eloquent javascript | let and var difference | map() | sort()
-regex | filter() | fill() | 
+sxiv - suckless image viewer
+thunderbird 
+redshift 
+rsync 
+vim copy and paste  
+fzf in terminal 
+change the form of your passwords - The 'password' at the end of your passwords is too common 
 
-basmati 1kg
-chicken 
-biryani masala 1
-tomatoes 3
-coriander(kothimbir)
-dahi
+Most used german nouns -> 
+http://frequencylists.blogspot.com/2016/01/the-2980-most-frequently-used-german.html 
 
-https://duome.eu/tips/en/de
-
-sound - asch(aash) ach(akh) 
-any problem - irgendein problem 
-no problem - kein problem 
-ich lernen deutsch und ich sprechen deutsch - i learn german and i speak german
-
-kellnerin | professorin | die frau ist Ärztin | der mann ist Arzt | dein,deine | lehrer | lehrerin |
-meine mutter ist professorin (not - eine professorin) 
-schauspielerin | 
-beruf 
-aber -> but 
-arbeit  
-stressig | interessant | aufregend | student | studentin | freund | freundin 
-Maria, was ist dein beruf(masculine) 
-sie ist professorin (not eine professorin) 
-hund-> hu..ndin 
+github -> nickjj/dotfiles -> vimrc setup
