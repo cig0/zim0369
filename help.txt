@@ -1,0 +1,24 @@
+# myhelp
+Most used german nouns -> 
+http://frequencylists.blogspot.com/2016/01/the-2980-most-frequently-used-german.html 
+
+if you mess up config file or smth look for it in /var/cache/pacman/pkg/
+
+check out this tmux and kitty config -> https://github.com/epmor/lampaces-demon-vim 
+
+fzf search using / in vim saved in reddit
+
+UPSC 26yrs 
+https://1lib.in/book/11639122/a11b50 
+
+cse biggie bookie:
+modern history spectrum
+independence struggle - bipin chandra
+post-independence - bipin chandra
+polity - laxmikanth
+gc leong(as a suppliment only)
+
+# tiny topicae
+current affairs - the hindu, yojana magazine, kurukshetra magazine
+
+

@@ -1,18 +1,9 @@
 sxiv - suckless image viewer
-rsync 
-vim copy and paste 
-vim mode in vomnibar 
-fzf in terminal 
-change the form of your passwords - The 'password' at the end of your passwords is too common 
 
-Most used german nouns -> 
-http://frequencylists.blogspot.com/2016/01/the-2980-most-frequently-used-german.html 
- 
-check out this tmux and kitty config -> https://github.com/epmor/lampaces-demon-vim 
+fzf in terminal 
    
-   kitty terminal 
-    
-UPSC 26yrs 
-https://1lib.in/book/11639122/a11b50 
-    
-     
+Understand what the keybindings mod+f mod+space mod+shift+space actually do in dwm
+
+binding powerkey in dwm
+
+screenlock in dwm cofiguring slock
