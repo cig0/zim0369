@@ -1,8 +1,21 @@
 Time Schedule :
+2200 - 1700 sleep
+1700 - 1800 getting ready
+1800 - 1900 newspaper
 
-``````````````````````````````````````````````````````````````````````````` 
-``````````````````````````````````````````````````````````````````````````` 
-techniques :
+1900 - 2200 (Rest of the day)
+-> Mains
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+OBJECTIVES : 
+Keep all the notes short and precise.
+For newspaper - Notes unnecessary but make notes of keywords,etc.
+At the end of every month go through the vision IAS magazine and make notes.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Techniques :
     1. Memory Palaces 
     2. Spaced Repetition  
     3. chunking
@@ -18,8 +31,8 @@ techniques :
     13. Spend more time recalling 
     14. Tesla Visuals/ Day dreams/ weirdness  
 
-...........................................................................
-``````````````````````````````````````````````````````````````````````````` 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 Memory training in detail : 
                             First 60mins :
                             Memory Palace 
@@ -29,5 +42,5 @@ Memory training in detail :
 
 Last 60mins:
                             Card Counting 
-...........................................................................
-``````````````````````````````````````````````````````````````````````````` 
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
