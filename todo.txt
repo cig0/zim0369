@@ -1,9 +1,14 @@
-sxiv - suckless image viewer
+abduco instead of termux
+mutt-wizard
+url follow in urxvt
+sxiv more operations like delete
+zathurarc ricing
+checkout toast bogster and papercolor themes
+clean bashrc
+minimal wallpapers < 30K
 
-fzf in terminal 
-   
-Understand what the keybindings mod+f mod+space mod+shift+space actually do in dwm
-
-binding powerkey in dwm
-
-screenlock in dwm cofiguring slock
+colord doesnt start
+custom kernels
+libinput.conf not working
+chaotic aur powrpill
+sxiv
