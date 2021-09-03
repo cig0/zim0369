@@ -1,14 +1,18 @@
-abduco instead of termux
-mutt-wizard
-url follow in urxvt
-sxiv more operations like delete
+choose best vim themes and settle for once(gruvbox maybe)
+vim syntastic when needed
 zathurarc ricing
-checkout toast bogster and papercolor themes
 clean bashrc
 minimal wallpapers < 30K
+scratchpads
+add a shortcut to toggle dark reader
 
-colord doesnt start
-custom kernels
-libinput.conf not working
-chaotic aur powrpill
-sxiv
+controlling mouse with keyboard in linux
+url follow in urxvt
+sxiv customization, features and other people's builds
+custom kernels, chaotic aur & powerpill
+mutt-wizard(but better to keep emails online)
+abduco instead of termux
+buy a cooling pad for butts(to sit)
+
+phones recommend 
+https://www.amazon.in/OnePlus-Nord-Blue-128GB-Storage/dp/B097RD2JX8/ref=sr_1_1?dchild=1&keywords=nord+2&qid=1630687275&sr=8-1
