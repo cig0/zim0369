@@ -1,0 +1,6 @@
+2300 - 0600    Sleep.
+0600 - 1800    Exercise, Getting ready, Breakfast, **RUST**, Lunch, **RUST**. 
+1800 - 1830    Break
+1830 - 2145    Dinner, **RUST**.
+2145 - 2200    Typing.
+2200 - 2300    Personal time.

@@ -1,18 +1,46 @@
-choose best vim themes and settle for once(gruvbox maybe)
-vim syntastic when needed
-zathurarc ricing
-clean bashrc
-minimal wallpapers < 30K
-scratchpads
-add a shortcut to toggle dark reader
+migrate to kakoune and xmonad
 
-controlling mouse with keyboard in linux
+20sept -> start with fixing fzf in vim and learn buffers
+
+
+multi search - when you're searching for a product online then you visit the site
+using vomnibar and type ai for amazon and f for flipkart. Make a site that 
+searches multiple sites for you by opening multiple tabs. 
+
+tab navigation using vomnibar *****************************
+
+convinient ways to open files in vim ex - fzf etc
+marks are not so convinient and you've already used m for viewports
+vim folds, autotags*, surround by tpope
+add border around vimium hints
+better than scrot app
+vim follow using 'f' alternative to *
+C-X in vim
+learn awk, grep, sed, regex ( oreilly regex)
+learn to take quick notes using pandoc or markdown or anything and put them online to access from anywhere
+upload files to be backed up to dropbox
+rsync
+lsmod
+scratchpads
+arch journalctl
+zathurarc ricing
 url follow in urxvt
-sxiv customization, features and other people's builds
-custom kernels, chaotic aur & powerpill
-mutt-wizard(but better to keep emails online)
+arch system maintainence 
+rss feed
+
+
 abduco instead of termux
 buy a cooling pad for butts(to sit)
+custom kernels, chaotic aur & powerpill
+mutt-wizard(but better to keep emails online)
+sxiv customization, features and other people's builds
 
-phones recommend 
-https://www.amazon.in/OnePlus-Nord-Blue-128GB-Storage/dp/B097RD2JX8/ref=sr_1_1?dchild=1&keywords=nord+2&qid=1630687275&sr=8-1
+
+RUST
+enumeration, struct, tuples, tuple structs, Option type in rust, Empty enums
+write better match statements
+
+
+failed/processing
+vim syntastic when needed
+browser full screen within the window or brave feature request.
