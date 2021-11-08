@@ -1,0 +1,28 @@
+@document.meta
+    title: .ideas
+    description:
+    author: zim
+    categories:
+    created: 2021-11-07
+    version: 0.1
+@end
+
+* =============== IDEAS ==================
+
+- [x] quick settings program.
+
+- [ ] Make a piano-cli app in Rust:
+    Leverages the ability to touch type to make music.
+
+- [ ] Torrent video streaming app:
+    Stream torrents just like yt.
+
+- [ ] vim plugin to easily make arrays out of strings:
+    - 'char' => ['c', 'h', 'a', 'r']
+    - 'more than one strings' => ["more", "than", "one", "strings"]
+
+- [ ] Persistent button for trackpads:
+    When you visually select text with mouse and can't drag past the trackpads
+    area, then you double tap to drag again but the previous visual selection
+    goes away. Persistent key will allow you to drag again without losing the
+    selection. When you double tap to copy/cut then the persistent resets.
