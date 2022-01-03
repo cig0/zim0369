@@ -9,19 +9,21 @@
 
 * ================= TODO ===================
 
- ** General
+ * General
     - [ ] dropbox backup
     - [ ] tab navigation using vomnibar
 
- ** TOOLS(to learn)
+ * TOOLS(to learn)
     - [ ] rsync
+    - [ ] Use Rust coreutils
     - [ ] sd (sed)
     - [ ] rss feed
+    - [ ] fd (find replacement)
     - [ ] rg (grep replacement)
     - [ ] regex (oreilly regex)
     - [ ] choose (awk replacement)
 
- ** LINUX/DESKTOP RELATED
+ * LINUX/DESKTOP RELATED
     - [ ] lsmod
     - [x] scratchpads
     - [ ] zathura ricing
@@ -32,43 +34,43 @@
     - [ ] arch system maintainence
     - [ ] Searching and navigating through files efficiently in terminal
 
- ** NEOVIM
+ * NEOVIM
     - [ ] notes
     - [ ] folds
     - [ ] marks
     - [ ] autotags
     - [ ] C-X in vim
 
- ** SCHOOL
-  *** TOC(Theory of Computation)
+ * SCHOOL
+  * TOC(Theory of Computation)
       - [ ] unit 1
       - [ ] unit 2
       - [ ] unit 3
       - [ ] unit 4
       - [ ] unit 5
       - [ ] unit 6
-  *** DBMS(Database Management Sysmtems)
+  * DBMS(Database Management Sysmtems)
       - [ ] unit 1
       - [ ] unit 2
       - [ ] unit 3
       - [ ] unit 4
       - [ ] unit 5
       - [ ] unit 6
-  *** CNS(Computer Networks and Security)
+  * CNS(Computer Networks and Security)
       - [ ] unit 1
       - [ ] unit 2
       - [ ] unit 3
       - [ ] unit 4
       - [ ] unit 5
       - [ ] unit 6
-  *** ELECTIVE 1(SOFTWARE PROJECT MANAGEMENT)
+  * ELECTIVE 1(SOFTWARE PROJECT MANAGEMENT)
       - [ ] unit 1
       - [ ] unit 2
       - [ ] unit 3
       - [ ] unit 4
       - [ ] unit 5
       - [ ] unit 6
-  *** SPOS(Systems Programming and Operating Systems)
+  * SPOS(Systems Programming and Operating Systems)
       - [ ] unit 1
       - [ ] unit 2
       - [ ] unit 3
@@ -76,7 +78,7 @@
       - [ ] unit 5
       - [ ] unit 6
 
- ** RUST
+ * RUST
     - [x] lifetime
     - [x] enum
     - [x] Empty enums
@@ -89,9 +91,10 @@
     - [ ] Result
     - [ ] tests
     - [ ] attributes
-   **** PROJECT IDEAS
+   * PROJECT IDEAS
         - neofetch
 
+           
 * =============== FINDINGS ================
 
 - mutt-wizard(but better to keep emails online)

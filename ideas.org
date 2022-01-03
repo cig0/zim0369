@@ -26,3 +26,9 @@
     area, then you double tap to drag again but the previous visual selection
     goes away. Persistent key will allow you to drag again without losing the
     selection. When you double tap to copy/cut then the persistent resets.
+
+- [ ] A device dedicated to only stream youtube with omptimized OS and custom kernel. A cheaper device that only streams youtube.
+   
+- [ ] Steal music/beats from different genres, etc. and put it into a different song.
+   
+- [ ] A surface full of rods built with 3d blocks of pixels. The rods clustered together make up a surface with customizable topology to represent live 3d models.
