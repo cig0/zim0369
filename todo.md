@@ -10,6 +10,7 @@
   - [ ] sd (sed)
   - [ ] rss feed
   - [ ] fd (find replacement)
+  - [ ] fcp (instead of cp)
   - [ ] rg (grep replacement)
   - [ ] regex (oreilly regex)
   - [ ] choose (awk replacement)

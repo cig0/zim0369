@@ -33,7 +33,10 @@
 
 +  a drone built in to tesla to monitor traffic around.
 
-+ sex meme:
++ script-store: cli store for popular scripts
+
++ meme:
+1.
    - first part. satisfied girl and guy
    - second part. girl mopping.
    - third part. girl dissappointed. guy asleep.
